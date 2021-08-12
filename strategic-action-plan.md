@@ -1,4 +1,4 @@
-## What is this paper for? {#what-is-this-paper-for}
+## What is this paper for?
 
 So-called AI technologies are now widespread. As with the advent of the internet, organisations must take stock of what these changes mean across all aspects of their business or risk stagnating.
 
@@ -7,10 +7,8 @@ In openDemocracy’s case, this will include considering new tools and approache
 From writing internal emails to investigative reporting, new tools will become available to help. Many of these can have significant impacts on how we work and manage resources. Some of them may involve significant alterations to staff roles and responsibilities, or automated decisions that are prone to bias.
 
 
-    “Those who are subject to these systems are generally ignored in conversations about algorithmic governance and regulation.”
+*“Those who are subject to these systems are generally ignored in conversations about algorithmic governance and regulation.”*
 
-
-    <p style="text-align: right">
 <em><a href="https://www.bostonglobe.com/2020/11/02/opinion/who-am-i-decide-when-algorithms-should-make-important-decisions/">Meredith Whittaker, co-founder of AI Now Institute and professor at New York University</a></em></p>
 
 
