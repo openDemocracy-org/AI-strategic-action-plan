@@ -228,10 +228,9 @@ These include opportunities for collaboration on complex investigations, technic
 
 To build on this, the organisation would commit to and invest in strategic activities that produce skilled staff who are confident in collaborating on and managing AI-oriented projects.
 
-“The more organisations explore these kinds of collaborations, the sooner we will realise as an industry the value that collaboration can bring to help us make the most of the potential offered by AI technology.”
+*"The more organisations explore these kinds of collaborations, the sooner we will realise as an industry the value that collaboration can bring to help us make the most of the potential offered by AI technology."*
 
-
-                ‘_[The impact of AI and collaboration on investigative journalism](https://blogs.lse.ac.uk/polis/2020/04/08/the-impact-of-ai-and-collaboration-on-investigative-journalism/)’, LSE_
+*"[The impact of AI and collaboration on investigative journalism](https://blogs.lse.ac.uk/polis/2020/04/08/the-impact-of-ai-and-collaboration-on-investigative-journalism/)’, LSE*
 
 **Action: **Determine if and how openDemocracy wants to develop AI competencies and communicate those externally, with the public, and potential funders and partners – e.g. positioning our teams as AI-savvy.
 
