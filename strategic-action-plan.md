@@ -111,17 +111,17 @@ These categories don’t capture operational areas of work, such as human resour
 
 #### Cost analysis {#cost-analysis}
 
-Does this system introduce organisational cost savings?
+Does this system introduce organisational cost savings? 
 
-(e.g. savings: freelance translation costs)
+- Savings on freelance translation costs
 
 What costs, including unseen costs, might the organisation and other relevant stakeholders (including staff, readers, communities we serve) incur as a result?
 
-(e.g. technical costs: cost of translation API + code development/maintenance/hosting costs;
+- Technical costs: cost of translation API + code development/maintenance/hosting costs
 
-Staff training costs;
+- Staff training costs
 
-costs to staff: freelancers lose work; value of human translator’s nuance)
+- Costs to staff: freelancers lose work; value of human translator’s nuance
 
 
 #### Data risk {#data-risk}
