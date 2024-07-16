@@ -33,7 +33,7 @@ The objectives are to:
 
 In what follows, we will consider various elements of AI strategy and policy design with a focus on surfacing viable, organisational actions. Those actions will be highlighted (with “**Action:**”) then triaged and put forward as recommendations.
 
-“News organisations can’t pay engineers as much as the tech giants, but they can implement AI technology to take up time-consuming tasks, thus freeing up journalists to produce the kind of investigative work that holds power to account and raises the organisation’s profile. Most don’t have an actionable template for introducing AI into the newsroom but emphasise the value of determining what problems need solving and where these technologies might fit.”
+*“News organisations can’t pay engineers as much as the tech giants, but they can implement AI technology to take up time-consuming tasks, thus freeing up journalists to produce the kind of investigative work that holds power to account and raises the organisation’s profile. Most don’t have an actionable template for introducing AI into the newsroom but emphasise the value of determining what problems need solving and where these technologies might fit.”*
 
 <p style="text-align: right">
 <em><a href="https://blogs.lse.ac.uk/polis/2021/01/25/how-ai-is-becoming-an-integral-part-of-the-news-making-process/">How AI is becoming an integral part of the news-making process, LSE</a></em></p>
@@ -51,7 +51,7 @@ Such principles include ensuring that systems “avoid creating or reinforcing u
 We are committed to many of these principles in other domains such as labour rights. It is worth restating and updating them in the particular scope of AI. This should be considered as part of future organisational strategy exercises.
 
 
-    “Ethical guidelines on AI usually lack clear enforcement mechanisms: Voluntary commitments and recommendations for ethical AI development are less effective than binding commitments and practical processes that operationalize principles.”
+*"Ethical guidelines on AI usually lack clear enforcement mechanisms: Voluntary commitments and recommendations for ethical AI development are less effective than binding commitments and practical processes that operationalize principles.”*
 
 <p style="text-align: right">
 <em><a href="https://2020.internethealthreport.org/slideshow-internet-health/#31">Mozilla Internet Health Report 2020</a></em></p>
