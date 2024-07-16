@@ -133,7 +133,7 @@ Does the use of this system involve sharing user data or creating new data that 
 
 Are the AI systems involved capable of bias that may prejudice groups or individuals.
 
-(e.g. could automated translation models overlook cultural nuance, reducing quality)
+e.g. could automated translation models overlook cultural nuance, reducing quality?
 
 
 #### Labour rights {#labour-rights}
@@ -145,7 +145,7 @@ Is this work that humans have done until now and where we are displacing human w
 
 Does the use of this system affect trust in the organisation or specific aspects of our work?œ
 
-(e.g. could automated translations cause offence or reputational damage? Does swapping human translators for machines pose ethical problems?)
+e.g. could automated translations cause offence or reputational damage? Does swapping human translators for machines pose ethical problems?
 
 
 ### Real examples of process in action {#real-examples-of-process-in-action}
