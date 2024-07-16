@@ -85,8 +85,8 @@ We might then **gather input data** for a possible AI system, to assess its mach
 
 
 * Samples of text for translation (body copy, subject lines, social media copy, etc.)
-* Other details e.g. what languages the copy for translation comes in.
-* Where the data lives before processing (e.g. Google docs).
+* Other details e.g. what languages the copy for translation comes in
+* Where the data lives before processing (e.g. Google docs)
 * GDPR check: e.g. “no personal data passed to external AI system”
 
 In a less obviously beneficial example than automated translation, we might initially gather **data on the value of the task** e.g. analytics data on reader numbers and quality of engagement on translated articles. This can help decide whether or not the eventual costs of purchasing, training for, migrating to, maintaining and using the software are justified.
