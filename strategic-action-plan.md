@@ -78,7 +78,7 @@ Analyse the **structure of the tasks** to be automated (e.g. ‘translate articl
 
 
 * detailing what existing processes for accomplishing the task are (e.g. ‘copy sent to staffer or freelancer; copy returned upon completion; freelancer is paid’),
-* how those will be replaced (‘translation service connected to CMS translates copy on page directly‘), 
+* how those will be replaced (‘translation service connected to CMS translates copy on page directly; service is paid for per-API call‘), 
 
 We might then **gather input data** for a possible AI system, to assess its machine-readability and suitability for processing by a given piece of software. In the example of translation, this might include:
 
